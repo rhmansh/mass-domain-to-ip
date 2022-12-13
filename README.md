@@ -2,7 +2,7 @@
 
 Usage
 
-create file domains.txt isi dengan list domain mu
+create file domains.txt isi dengan list domain mu (domain perline)
 
 pip install -r req.txt
 
