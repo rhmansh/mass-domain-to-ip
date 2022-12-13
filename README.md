@@ -1,6 +1,8 @@
 # mass-domain-to-ip
 
-Usage
+fast & auto remove duplicate
+
+# Usage
 
 create file domains.txt isi dengan list domain mu (domain perline)
 
