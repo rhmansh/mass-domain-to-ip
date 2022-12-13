@@ -1,6 +1,6 @@
 # mass-domain-to-ip
 
-fast & auto remove duplicate
+fast & auto remove duplicate domain ip
 
 # Usage
 
